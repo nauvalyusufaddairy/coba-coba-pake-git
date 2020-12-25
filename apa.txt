@@ -1,2 +1,2 @@
-1. tambah
+
 2. hapus
